@@ -62,3 +62,13 @@ Deploying a Toshi app requires a few processes to run:
 ## See also
 
 * [https://www.toshi.org]
+
+- - -
+
+Copyright &copy; 2017-2018 Toshi Holdings Pte. Ltd. &lt;[https://www.toshi.org/](https://www.toshi.org/)&gt;
+
+"Toshi" is a registered trade mark. This License does not grant
+permission to use the trade names, trademarks, service marks, or
+product names of the Licensor.
+
+This software licensed under the [MIT License](https://opensource.org/licenses/MIT).
