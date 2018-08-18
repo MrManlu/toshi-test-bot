@@ -1,5 +1,5 @@
 # latest official node image
-FROM node:latest
+FROM node:8
 
 RUN git config --global user.email 'docker-dummy@example.com'
 RUN npm install -g nodemon
